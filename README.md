@@ -2,6 +2,7 @@
 ------------------------------------------------------------------
 Building Neural Network on regression problem of predicting house price based on 8 predictor variables. Using both Sequential API and Functional API to check the performance of the model plus also using Callback checkpoint and early stopping checkpoint to save the best model to be used anytime.
 -------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/68370376/134771349-c49723f2-16f7-4518-ae23-b46d6095d2e5.png)
 
 ![image](https://user-images.githubusercontent.com/68370376/134771117-a6c56bd3-f911-46ad-b327-3affc154a0a9.png)
 
